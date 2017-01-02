@@ -346,7 +346,7 @@ msg3:
     .ascii "XUE Cursor Position:"
 	 
 msg4:
-    .ascii "XUE Memory Size In KB:"
+    .ascii "XUE Memory Size(KB):"
 	 
 msg5:
     .ascii "XUE Cyls:"	 
